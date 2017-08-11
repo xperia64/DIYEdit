@@ -1,0 +1,5 @@
+This is my half-finished WarioWare D.I.Y. multi-utility I worked on from 2013-2015
+
+Base platform for DS saves and Mio files adapted from CrygorTool
+All direct WWDIY functionality beyond what CrygorTool has was reverse-engineered by diffing WWDIY saves
+WarioWare D.I.Y. Showcase support via my Java port of http://wiibrew.org/wiki/Segher%27s_Wii.git
